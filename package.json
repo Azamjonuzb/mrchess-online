@@ -1,0 +1,8 @@
+{
+  "name": "mrchess-online",
+  "version": "7.0.0",
+  "private": true,
+  "description": "Mr.Chess — online rooms, puzzles, bot and strategy lessons",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
